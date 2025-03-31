@@ -196,7 +196,7 @@ h3, p{
 
 .containerC-items{
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(380px, 1fr));
+    grid-template-columns: repeat(auto-fit, minmax(440px, 1fr));
     position: relative;
     background-color: #EBE7E0;
 }
